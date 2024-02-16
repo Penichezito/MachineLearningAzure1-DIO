@@ -34,7 +34,7 @@ Para utilizar o Azure Machine Learning, é necessário aprovisionar um espaço d
 
 O aprendizado de máquina automatizado permite que você experimente vários algoritmos e parâmetros para treinar vários modelos e identificar o melhor para seus dados. Neste exercício, você usará um conjunto de dados de detalhes históricos de aluguel de bicicletas para treinar um modelo que prevê o número de aluguel de bicicletas esperado em um determinado dia, com base em características sazonais e meteorológicas.
 
-> ***Citação : Os dados usados ​​neste exercício são derivados da [Capital Bikeshare](https://capitalbikeshare.com/system-data) e são usados ​​de acordo com o [contrato de licença](https://ride.capitalbikeshare.com/data-license-agreement) de dados publicado .***
+> *** Os dados usados ​​neste exercício são derivados da [Capital Bikeshare](https://capitalbikeshare.com/system-data) e são usados ​​de acordo com o [contrato de licença](https://ride.capitalbikeshare.com/data-license-agreement) de dados publicado .***
 
 No [Azure Machine Learning Studio](https://ml.azure.com/) , veja a página **Automated ML (em Authoring)**.
 
