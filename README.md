@@ -186,11 +186,11 @@ Agora você pode testar seu serviço implantado.
 
 5. Revise os resultados do teste, que incluem um número previsto de aluguéis com base nos recursos de entrada - semelhante a este:
 ```
- {
-   "Results": [
-     444.27799000000000
-   ]
- }
+{
+  "Results": [
+    348.7973666706818
+  ]
+}
 ```
 O painel de teste pegou os dados de entrada e usou o modelo treinado para retornar o número previsto de aluguéis.
 
